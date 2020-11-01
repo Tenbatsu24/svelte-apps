@@ -1,5 +1,5 @@
 <script>
-	import Question from "./Components/Question.svelte";
+	import Question from "./components/Question.svelte";
 
 	const question = {
 		question: "Who is the President of America?",
